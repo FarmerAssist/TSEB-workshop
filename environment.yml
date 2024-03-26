@@ -1,4 +1,4 @@
-name: curso_wue
+name: tseb-workshop
 channels:
     - conda-forge
 dependencies:
@@ -16,6 +16,12 @@ dependencies:
     - matplotlib
     - cdsapi
     - numba
+    - plotly
+    - jupyterlab
+    - ipywidgets
+    - nodejs
+    - mystmd
+    - jupyterlab-myst
     - pip:
         - git+https://github.com/hectornieto/pypro4sail
         - git+https://github.com/hectornieto/pyTSEB

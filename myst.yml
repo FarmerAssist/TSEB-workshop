@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Workshop on recent advances in TSEB
+  description: Two-day workshop that will show the most recent advances made in TSEB modelling framework as well as pyTSEB code structure and syntaxis.
+  keywords:
+      - MyST Markdown
+      - pyTSEB Tutorial
+  authors:
+      - name: Héctor Nieto
+        affiliation: Instituto de Ciencias Agrarias, ICA-CSIC, Spain
+        orcid: 0000-0003-4250-6424
+  github: https://github.com/hectornieto/curso-WUE
+  # bibliography: []
+site:
+  template: book-theme
+  title: JupyterLab TSEB tutorial
+  logo_text: JupyterLab MyST
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
